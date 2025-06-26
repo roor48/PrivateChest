@@ -1,0 +1,6 @@
+name: PrivateChest
+version: 1.0
+main: com.mingun.privatechest.PrivateChest
+api-version: 1.21
+authors: [mingun]
+description: Protects chests using player names on attached signs and allows easy name engraving.
